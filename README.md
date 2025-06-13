@@ -28,48 +28,36 @@
     </div>
   </div>
 
-  <div class="section">
+  <div>
     <h2>🤖 Machine Learning</h2>
-    <div class="books-grid">
-      <div class="book-card">
-        <img src="https://covers.oreillystatic.com/images/0636920030515/cat.gif" alt="ML Quick Guide">
-        <a href="https://linkedin.com/fake-post-4" target="_blank">Machine Learning: Guia de Referência Rápida</a>
+    <div>
+      <div>
+        <img src="https://github.com/faanogueira/DataFlix/blob/main/img/02.png" alt="Hands-On Machine Learning">
+        <a href="https://www.linkedin.com/posts/faanogueira_aprendizado-de-m%C3%A1quina-pr%C3%A1tico-activity-7337780554873954304-WPyg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLh_XsBfBAcz8d3PhrQ62NGXGk5Xs1Znjw" target="_blank">Hands-On Machine Learning</a>
       </div>
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=ML+Systems" alt="ML Systems">
-        <a href="https://linkedin.com/fake-post-5" target="_blank">Machine Learning Systems (Deploy e MLOps)</a>
+      <div>
+        <img src="https://github.com/faanogueira/DataFlix/blob/main/img/03.png" alt="ML Systems">
+        <a href="https://www.linkedin.com/posts/faanogueira_machine-learning-guia-de-refer%C3%AAncia-r%C3%A1pida-activity-7338867711323570177-4e_M?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLh_XsBfBAcz8d3PhrQ62NGXGk5Xs1Znjw" target="_blank">Machine Learning – Guia de Referência Rápida</a>
       </div>
     </div>
   </div>
 
-  <div class="section">
+  <div>
     <h2>🧠 Deep Learning</h2>
-    <div class="books-grid">
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=PyTorch+DL" alt="PyTorch DL">
-        <a href="https://linkedin.com/fake-post-6" target="_blank">Programming PyTorch for Deep Learning</a>
-      </div>
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=DL+CV+Python" alt="DL CV">
-        <a href="https://linkedin.com/fake-post-7" target="_blank">Deep Learning for Computer Vision</a>
-      </div>
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=DL+Scratch" alt="DL from Scratch">
-        <a href="https://linkedin.com/fake-post-8" target="_blank">Deep Learning From Scratch</a>
+    <div>
+      <div>
+        <img src="https://github.com/faanogueira/DataFlix/blob/main/img/01.png" alt="PyTorch DL">
+        <a href="https://www.linkedin.com/posts/faanogueira_programa%C3%A7%C3%A3o-pytorch-para-deep-learning-activity-7336560652087431168-7fdQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLh_XsBfBAcz8d3PhrQ62NGXGk5Xs1Znjw" target="_blank">Programming PyTorch for Deep Learning</a>
       </div>
     </div>
   </div>
 
-  <div class="section">
+  <div>
     <h2>🔍 Estatística e Análise Exploratória</h2>
-    <div class="books-grid">
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=Think+Stats" alt="EDA Think Stats">
-        <a href="https://linkedin.com/fake-post-9" target="_blank">Exploratory Data Analysis (Think Stats)</a>
+    <div 
+      <div>
       </div>
-      <div class="book-card">
-        <img src="https://dummyimage.com/200x240/cccccc/000&text=Excel+to+Python+R" alt="Excel to Python and R">
-        <a href="https://linkedin.com/fake-post-10" target="_blank">Advancing into Analytics: Excel to Python & R</a>
+      <div>
       </div>
     </div>
   </div>
