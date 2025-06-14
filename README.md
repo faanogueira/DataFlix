@@ -1,3 +1,5 @@
+<img src="https://github.com/faanogueira/DataFlix/blob/main/img/dataflix.jpeg" width="100%" margin-top=10px margin-bottom=10px align="center">
+
 # 📚 Index de leituras técnicas para profissionais de dados
 
 > **DataFlix** – A estante do cientista de dados em construção
