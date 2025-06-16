@@ -4,7 +4,7 @@
 
 > **DataFlix** – A estante do cientista de dados em construção
 
-### Este repositório reúne indicações de livros essenciais nas áreas de Python, SQL, Banco de Dados, Estatística, Machine Learning, Deep Learning e Inteligência Artificial. Cada título conta com um link para resenhas e reflexões publicadas no LinkedIn, com foco em aplicações práticas, aprendizado contínuo e transição de carreira para a área de dados.
+### Este repositório reúne indicações de livros essenciais nas áreas de Python, SQL, Estatística, Machine Learning, Deep Learning e Inteligência Artificial. Cada título conta com um link para resenhas e reflexões publicadas no LinkedIn, com foco em aplicações práticas, aprendizado contínuo e transição de carreira para a área de dados.
 ---
 
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <!-- Início da seção "SQL e Banco de Dados" -->
-## 🥮 SQL e Banco de Dados:
+## 🥮 SQL:
 - *(em construção...)*
 <!-- Fim da seção "SQL e Banco de Dados" -->
 
@@ -56,10 +56,17 @@ Direto ao ponto, o livro entrega prática real, com foco em limpeza de dados, en
 - A prática de criar classificadores de imagens com CNNs, entendendo cada camada, cada parâmetro, cada neurônio virtual;
 - A mágica do aprendizado supervisionado, com datasets reais, transformações e normalizações para alimentar modelos robustos;
 - Técnicas modernas como Dropout, Transfer Learning e uso de GPUs — tudo explicado com clareza e aplicabilidade.</p>
+
+<br>
+<!-- Livro 2 -->
+<a href="https://www.linkedin.com/posts/faanogueira_aprendizado-profundo-para-vis%C3%A3o-computacional-activity-7340317231462920194-8qgO?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLh_XsBfBAcz8d3PhrQ62NGXGk5Xs1Znjw" target="_blank"><img src="https://github.com/faanogueira/DataFlix/blob/main/img/04.png" width="200px" align="right" alt="code"></a>
+<strong><a align="left" href="https://www.linkedin.com/posts/faanogueira_aprendizado-profundo-para-vis%C3%A3o-computacional-activity-7340317231462920194-8qgO?utm_source=share&utm_medium=member_desktop&rcm=ACoAABLh_XsBfBAcz8d3PhrQ62NGXGk5Xs1Znjw" target="_blank">Deep Learning for Computer Vision with Python</a></strong>
+<p align="left">De data augmentation a transferência de aprendizado, passando por redes poderosas como MiniVGGNet, AlexNet, GoogLeNet e ResNet, o autor entrega um passo a passo direto ao ponto, com projetos reais e insights valiosos para quem atua (ou quer atuar) com Visão Computacional aplicada.</p>
+<p align="left">🔥 Se você está explorando CNNs, classificação de imagens, fine-tuning ou até competições no Kaggle, essa leitura é ouro!</p>
 <!-- Fim da seção "Deep Learning" -->
 
 <br>
-
+<br>
 <!-- Início da seção "Estatística e Análise Exploratória" -->
 <h2 align="left">🔍 Estatística e Análise Exploratória de Dados: </h2>
 - *(em construção...)*
